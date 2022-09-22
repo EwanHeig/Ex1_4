@@ -6,7 +6,7 @@ using namespace std;
 int main() {
    string prenom;
 
-   int age = 0;
+   int age = 0 ;
    int annee_naissance = 0;
    cout << "Entrez votre prenom svp : " << endl;
    cin >> prenom;
