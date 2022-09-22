@@ -19,7 +19,7 @@ int main() {
 
    if (prenom == "Hitler")
    {
-      cout << "HEIL !"<<endl;
+      cout << "test !"<<endl;
    }
    return 0;
 }
